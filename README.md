@@ -1,4 +1,4 @@
-### Arthur Lelis | Software Development Student 
+## Arthur Lelis | Software Development Student 
 
 <!--
 **Arthur32p/Arthur32p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Estudante de Sistemas de Informação, focado no desenvolvimento back-end
+# Estudante de Sistemas de Informação, focado no desenvolvimento back-end
 
-# Tech Stack
-Back-End: Java, Spring Boot e SQL
-Ferramentas: Git e Docker
+Tech Stack:
+  Back-End: Java, Spring Boot e SQL
+  Ferramentas: Git e Docker
