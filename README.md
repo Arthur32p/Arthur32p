@@ -8,5 +8,5 @@ Estudante de Sistemas de Informação focado em arquitetura e desenvolvimento Ba
 ### 🛠️ Tech Stack
 
 * **Back-end:** Java, Spring Boot (Data JPA, Security), SQL.
-* **DevOps & Infra:** Git, Docker, CachyOS/Linux.
+* **DevOps & Infra:** Git, Docker, Linux.
 ---
